@@ -1,6 +1,6 @@
-# 01.git-learn
+# 01.第一次提交github
 
->第一次提交github
+>git-learn
 
 ## Build Setup
 
