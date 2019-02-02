@@ -5,12 +5,15 @@
 ## Build Setup
 
 ``` bash
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+
 # 初始化本地master
 1.git init 
 
 2.git add .  # 文件修改、文件新建，添加暂存区。
 
-  gti add -u # 文件修改、文件删除，添加暂存区。(已经追踪的文件)
+  gti add -u # 文件修改、文件删除，添加暂存区。(就是已经追踪(push)的文件)
 
   git add -A # 所有的修改，添加暂存区。
 
